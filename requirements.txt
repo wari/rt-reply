@@ -1,2 +1,2 @@
 toml
-rt
+git+https://github.com/CZ-NIC/python-rt
